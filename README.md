@@ -11,16 +11,13 @@
 
 <div align="center"> 
   <a href="#" > 
-    <img src="https://img.shields.io/github/repo-size/Lennolium/GeneHound?
-label=Repo%20Size&color=orange" alt="repo size" >
+    <img src="https://img.shields.io/github/repo-size/Lennolium/GeneHound?label=Repo%20Size&color=orange" alt="repo size" >
   <a></a>  
    <a href="https://github.com/Lennolium/GeneHound/branches" > 
-    <img src="https://img.shields.io/github/last-commit/Lennolium/GeneHound?
-label=Last%20Updated&color=green" alt="last updated" >
+    <img src="https://img.shields.io/github/last-commit/Lennolium/GeneHound?label=Last%20Updated&color=green" alt="last updated" >
     <a></a>
    <a href="https://github.com/Lennolium/GeneHound/commits/master" > 
-    <img src="https://img.shields.
-io/github/commit-activity/m/Lennolium/GeneHound?label=Commit%20Activity" 
+    <img src="https://img.shields.io/github/commit-activity/m/Lennolium/GeneHound?label=Commit%20Activity" 
 alt="commit activity" >
      <a></a>
   <a href="https://github.com/Lennolium/GeneHound#download" > 
@@ -29,16 +26,12 @@ alt="stable version" >
      <br>
   <a href="https://github.com/Lennolium/GeneHound/issues" > 
     <img src="https://img.shields.io/github/issues-raw/Lennolium/PrivacyShield?label=Open%20Issues&color=critical" alt="open issues" >
-  <a href="https://github.com/Lennolium/GeneHound/issues?
-q=is%3Aissue+is%3Aclosed" > 
-    <img src="https://img.shields.
-io/github/issues-closed-raw/Lennolium/GeneHound?
-label=Closed%20Issues&color=inactive" alt="closed issues" > 
+  <a href="https://github.com/Lennolium/GeneHound/issues?q=is%3Aissue+is%3Aclosed" > 
+    <img src="https://img.shields.io/github/issues-closed-raw/Lennolium/GeneHound?label=Closed%20Issues&color=inactive" alt="closed issues" > 
      <a href="https://tinyurl.com/opinionoffriends" > 
     <img src="https://img.shields.io/badge/Rating-★★★★★-yellow" alt="rating" >
   <a href="https://github.com/Lennolium/GeneHound/blob/main/LICENSE" > 
-    <img src="https://img.shields.io/github/license/Lennolium/GeneHound?
-label=License&color=blueviolet" alt="License" > 
+    <img src="https://img.shields.io/github/license/Lennolium/GeneHound?label=License&color=blueviolet" alt="License" > 
   <a></a> </a> </a> </a> </a> </a> </a> </a> </a>
 </div>
 
