@@ -25,7 +25,7 @@ alt="commit activity" >
 alt="stable version" >
      <br>
   <a href="https://github.com/Lennolium/GeneHound/issues" > 
-    <img src="https://img.shields.io/github/issues-raw/Lennolium/PrivacyShield?label=Open%20Issues&color=critical" alt="open issues" >
+    <img src="https://img.shields.io/github/issues-raw/Lennolium/GeneHound?label=Open%20Issues&color=critical" alt="open issues" >
   <a href="https://github.com/Lennolium/GeneHound/issues?q=is%3Aissue+is%3Aclosed" > 
     <img src="https://img.shields.io/github/issues-closed-raw/Lennolium/GeneHound?label=Closed%20Issues&color=inactive" alt="closed issues" > 
      <a href="https://tinyurl.com/opinionoffriends" > 
