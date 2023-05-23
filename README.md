@@ -36,7 +36,7 @@ io/github/issues-closed-raw/Lennolium/GeneHound?
 label=Closed%20Issues&color=inactive" alt="closed issues" > 
      <a href="https://tinyurl.com/opinionoffriends" > 
     <img src="https://img.shields.io/badge/Rating-★★★★★-yellow" alt="rating" >
-  <a href="https://github.com/Lennolium/GeneHound/blob/master/LICENSE" > 
+  <a href="https://github.com/Lennolium/GeneHound/blob/main/LICENSE" > 
     <img src="https://img.shields.io/github/license/Lennolium/GeneHound?
 label=License&color=blueviolet" alt="License" > 
   <a></a> </a> </a> </a> </a> </a> </a> </a> </a>
