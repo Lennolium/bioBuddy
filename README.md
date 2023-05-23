@@ -52,7 +52,7 @@ label=License&color=blueviolet" alt="License" >
 
 <div align="center">
 First try to implement bioinformatics (search) algorithms.
-Programmed in Python 3.11.0 and following the PEP8 style guide.<br>
+Programmed in Python 3.11.0 and following the PEP8 style guide.
 Software architecture is based on the MVC pattern. Please report bugs and 
 errors via <a href="https://github.
 com/Lennolium/GeneHound/issues">Issues</a> tab. 
@@ -71,6 +71,7 @@ com/Lennolium/GeneHound/issues">Issues</a> tab.
 ## <ins>Table of Contents</ins>
 - [Features](#features)
 - [Usage](#usage)
+- [Credits](#credits)
 - [License](#license)
 
 &nbsp;
@@ -108,11 +109,22 @@ com/Lennolium/GeneHound/issues">Issues</a> tab.
     ```bash
     python3 main.py
      ```
+
+&nbsp;
    
+<!--- License -->
+
+## <ins>Credits</ins>
+
+- Inspired by <a href="https://nazmul-ahsan.medium.com/how-to-organize-multi-frame-tkinter-application-with-mvc-pattern-79247efbb02b">this Article</a>
+- Logo created by <a href="https://www.flaticon.com/free-icons/dna" title="dna icons">Warangkhana Sookruay - Flaticon</a>
+
+&nbsp;
+
 <!--- License -->
 
 ## <ins>License</ins>
 
 See LICENSE file for details.
 
-GPLv3: https://www.gnu.org/licenses/gpl-3.0.en.html
+GPLv3: <a href="https://www.gnu.org/licenses/gpl-3.0.en.html">Full Text</a>
