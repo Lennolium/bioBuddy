@@ -1,7 +1,7 @@
 <!--- Logo -->
 
 <div align="center">  
- <a href="" > 
+ <a href="#genehound" > 
   <img width="600" src="https://github.com/Lennolium/GeneHound/blob/main/img/banner.png?raw=true" alt="logo" /> </a>
 </div>
 &nbsp;

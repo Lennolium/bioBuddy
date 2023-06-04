@@ -27,7 +27,7 @@ from controllers.main import Controller
 def main():
     """
     The main function is the entry point of the program.
-    It creates an instance of Model, View and Controller.
+    It creates an instance of Model, View, and Controller.
     Then it starts the controller.
 
     :return: None
@@ -37,6 +37,7 @@ def main():
     view = View()
     controller = Controller(model, view)
     controller.run()
+
 
 
 # Execute main function.
