@@ -8,6 +8,7 @@
 </picture>
 </div>
 
+
 <!--- Badges -->
 
 <div align="center"> 
@@ -35,6 +36,7 @@ alt="stable version" >
     <img src="https://img.shields.io/github/license/Lennolium/bioBuddy?label=License&color=blueviolet" alt="License" > 
   <a></a> </a> </a> </a> </a> </a> </a> </a> </a>
 </div>
+<br><br>
 
 <!--- Title -->
 
