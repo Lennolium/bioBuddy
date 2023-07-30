@@ -2,9 +2,9 @@
 
 <div align="center">  
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./resources/banner_256_dark.png" width="600vw">
-  <source media="(prefers-color-scheme: light)" srcset="./resources/banner_256_light.png" width="600vw">
-  <img alt="Application Banner" src="./resources/banner_256_light.png" width="600vw">
+  <source media="(prefers-color-scheme: dark)" srcset="./resources/banner_dark@2x.png" width="600vw">
+  <source media="(prefers-color-scheme: light)" srcset="./resources/banner_light@2x.png" width="600vw">
+  <img alt="Application Banner" src="./resources/banner_light@2x.png" width="600vw">
 </picture>
 </div>
 <br>
