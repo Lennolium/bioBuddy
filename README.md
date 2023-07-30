@@ -7,7 +7,7 @@
   <img alt="Application Banner" src="./resources/banner_256_light.png" width="600vw">
 </picture>
 </div>
-
+<br>
 
 <!--- Badges -->
 
@@ -36,12 +36,10 @@ alt="stable version" >
     <img src="https://img.shields.io/github/license/Lennolium/bioBuddy?label=License&color=blueviolet" alt="License" > 
   <a></a> </a> </a> </a> </a> </a> </a> </a> </a>
 </div>
-<br><br>
 
 <!--- Title -->
-
 <div align="center">
-  <h1>bioBuddy</h1> 
+  <h1></h1>
 </div>
 
 <!--- Description -->
